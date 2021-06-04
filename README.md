@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theatheia
-- 👀 I’m interested in linux and cryptocurreny
+- 👀 I’m interested in linux and FOSS
 - 🌱 I’m currently learning linux and other programming languages
 - 💞️ I’m looking to collaborate on TBA
 - 📫 How to reach me TBA
